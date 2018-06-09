@@ -61,7 +61,7 @@ Public Class CookieConsent
             If Not Page.ClientScript.IsClientScriptBlockRegistered("CookieConsent") Then
                 Dim strCookieScript As String = BuildCookieConsentScript()
                 ltlScript.Text = strCookieScript
-                ClientResourceManager.RegisterScript(Parent.Page, "//s3.amazonaws.com/cc.silktide.com/cookieconsent.1.0.2.min.js")
+                ClientResourceManager.RegisterScript(Parent.Page, "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.7/cookieconsent.min.js")
 
             End If
         Catch exc As Exception
