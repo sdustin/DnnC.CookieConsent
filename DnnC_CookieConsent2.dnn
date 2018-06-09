@@ -1,6 +1,6 @@
 <dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="DnnC_CookieConsent2" type="Module" version="00.00.01">
+    <package name="DnnC_CookieConsent2" type="Module" version="00.00.02">
       <friendlyName>DnnC_CookieConsent2</friendlyName>
       <description>Christoc.com DnnC_CookieConsent2 module</description>
       <iconFile>Images/icon_extensions.gif</iconFile>

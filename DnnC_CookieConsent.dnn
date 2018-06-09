@@ -1,6 +1,6 @@
 <dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="DnnC_CookieConsent" type="SkinObject" version="02.00.01">
+    <package name="DnnC_CookieConsent" type="SkinObject" version="02.00.02">
       <friendlyName>DnnC_CookieConsent SkinObject</friendlyName>
       <description>DnnC DnnC CookieConsent Skin object for Dnn</description>
       <iconFile/>
